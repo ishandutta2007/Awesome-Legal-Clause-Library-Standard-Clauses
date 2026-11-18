@@ -1,170 +1,143 @@
-# Awesome-Legal-Clause-Library-Standard-Clauses
-# Awesome-Legal-Clause-Library-Standard-Clauses
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Legal Clause Library &amp; Standard Clauses Banner" width="100%" />
+</p>
 
-# Awesome Legal Clause Library & Standard Clauses
+# ⚖️ Awesome Legal Clause Library & Standard Clauses
 
-> A curated list of top Legal Clause Library and Standard Clause platforms — both SaaS/Hosted commercial CLM suites and open-source alternatives for centralizing approved clause language, fallback positions, and playbook-driven drafting.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 📜 A curated directory of top **Legal Clause Libraries**, **Standard Contract Clauses**, **AI Negotiation Playbooks**, and **Open-Source Contract Lifecycle Management (CLM)** tools for legal operations, procurement, and commercial contracting teams.
+>
 > 🌟 Star this repo if you find it useful! 🌟
 
 ---
 
 ## 📋 Table of Contents
 
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Icertis Clause Library](#icertis-clause-library)
-  - [Ironclad Clause Library](#ironclad-clause-library)
-  - [DocuSign CLM Clause Library](#docusign-clm-clause-library)
-  - [Conga Clause Library](#conga-clause-library)
-  - [Agiloft Clause Library](#agiloft-clause-library)
-  - [CobbleStone Clause Management](#cobblestone-clause-management)
-  - [Robin AI Clause Library](#robin-ai-clause-library)
-- [Open-Source Software](#-open-source-software)
-  - [template-vault](#template-vault)
-  - [draftLegal](#draftlegal)
-  - [Codify Core](#codify-core)
-  - [OpenCLM](#openclm)
-  - [contract-vault](#contract-vault)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 Enterprise SaaS & Hosted Clause Library Platforms](#-enterprise-saas--hosted-clause-library-platforms)
+- [🔓 Open-Source Software & Clause Frameworks](#-open-source-software--clause-frameworks)
+- [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
+- [🎯 Key Selection Criteria for Legal Clause Libraries](#-key-selection-criteria-for-legal-clause-libraries)
+- [💖 Support](#-support)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [⭐ Star History](#-star-history)
 
 ---
 
-## 🟦 SaaS / Hosted Platforms
+## 🌐 Sector Overview & Market Dynamics
 
-Commercial, cloud-hosted Legal Clause Library and Standard Clause platforms. These are not open-source but are included as reference points for feature comparison.
+The global Contract Lifecycle Management (CLM) and legal clause management market was valued at approximately **$2.3 billion in 2024** and is projected to expand to **$5.9 billion by 2032**, registering a compound annual growth rate (CAGR) of **12.5%**. The sector has experienced a profound structural evolution driven by generative AI, large language model (LLM) redlining, and automated playbook compliance.
 
-### Icertis Clause Library
-**Type:** Clause library with AI-generated playbooks
-Icertis provides clause-level intelligence within its contract lifecycle management platform, with an AI-first experience layer that lets teams draft, review, and understand agreements through conversational interactions. The **Redline Agent** applies enterprise rules instantly, flags unacceptable clauses, and suggests aligned alternatives. **AI-Generated Playbooks** convert real contracts, past negotiations, and expert guidance into structured playbooks within minutes, giving enterprises clear rules and fallbacks even when no formal standards existed before. The **Risk Review Agent** explains clauses, compares drafts, and surfaces insights in plain language.  
-**Best for:** Enterprises already using Icertis CLM wanting AI-driven clause intelligence and playbook creation tied to their contract data.
-
-### Ironclad Clause Library
-**Type:** Clause bank with template integration
-Ironclad provides a clause library that supports template and workflow authoring, with the ability to store approved clause variants and fallback positions. The **Contract Review Agent** redlines against playbooks and precedents, with clause-level changes displayed as highlighted redlines for review. **Precedent-based redlining** (invitation-only) allows executed agreements from the repository to serve as context. Playbook setup requires an Ironclad Services engagement to translate guidance and clause banks into an Agent-ready playbook.  
-**Best for:** Ironclad CLM customers wanting clause management tightly integrated with their template and approval workflows.
-
-### DocuSign CLM Clause Library
-**Type:** Clause library within Salesforce-integrated CLM
-DocuSign CLM includes a clause library that enables **legal-defined fallback clauses** for negotiations, with centralized access to approved language during contract generation. It supports document generation from Salesforce data using pre-defined templates, with version control and redlining. The clause library is part of a broader CLM workflow including approval routing and a searchable agreement repository.  
-**Best for:** Salesforce organizations wanting clause management embedded in their contract generation and negotiation workflows.
-
-### Conga Clause Library
-**Type:** Clause library with document generation
-Conga provides a clause library within its contract lifecycle management and document generation platform, enabling teams to store, categorize, and insert approved clauses into generated documents. It is positioned for organizations wanting standardized clause language applied consistently across high-volume contract generation.
-
-### Agiloft Clause Library
-**Type:** Clause library with AI review and fallback suggestions
-Agiloft provides clause-level management within its CLM platform, with **AI-assisted review** that detects risky and non-standard terms and **auto-suggests fallback language** in seconds. Pre-built templates include approved language, and AI-powered contract analysis uncovers obligations and risks. Post-signature obligation tracking is also supported.  
-**Best for:** Organizations wanting AI-assisted clause review with fallback suggestions and broad integration coverage.
-
-### CobbleStone Clause Management
-**Type:** Clause and template management within CLM
-CobbleStone Contract Insight provides clause and template management as part of its contract lifecycle management platform, with version control, approval workflows, and reporting. It is positioned for public sector and mid-market organizations wanting structured clause governance.
-
-### Robin AI Clause Library
-**Type:** Conversational clause analysis with citations
-Robin AI provides conversational contract analysis where every answer includes **clickable citations linking directly to the clause or provision** in the source document. Users can select document sets using filters before asking questions, enabling clause comparison and deviation analysis across document families. The platform emphasizes verifiability—every answer can be traced to its source clause.  
-**Best for:** Legal teams wanting conversational clause analysis with strong citation-based verification.
+The market displays a **moderately concentrated, bifurcated structure**:
+- **Dominant Enterprise Giants & High-Valuation Challengers**: A tier of hyperscale platforms (DocuSign, Icertis, Ironclad, Conga, and Agiloft) commands the lion's share of Fortune 500 enterprise legal spend, offering end-to-end CLM suites with native ERP and CRM integration.
+- **Specialized AI Drafting Engines & Emerging Open-Source Ecosystem**: Fast-growing specialized players (e.g., Robin AI) and emerging open-source platforms (such as OpenContracts, OpenCLM, Cicero, and draftLegal) are democratizing clause-level extraction, citation tracking, and git-style contract composition without enterprise software vendor lock-in.
 
 ---
 
-## 🟩 Open-Source Software
+## 🏢 Enterprise SaaS & Hosted Clause Library Platforms
 
-Self-hosted, community-driven clause management tools. The open-source ecosystem is **nascent**, with most projects focused on template composition, contract structuring, and AI-assisted CLM rather than dedicated clause libraries.
+The following table benchmarks leading commercial cloud legal clause libraries and CLM platforms. Sorted in **descending order by company valuation / revenue scale**.
 
-### template-vault
-**Stack:** Python / Git | **License:** Open Source (PyPI)
-template-vault is a CLI tool that stores legal templates and clause language as **plain files in a Git repository**, with multi-user sync via `git pull` / `git push` . Key clause-related capabilities:
-- **Clause-level composition**: A template can fork a base template and **swap clauses from other templates**, recording provenance in `clause_overrides` 
-- **Provenance tracking**: The `upgrade` command knows which clauses were locally modified and leaves them untouched when the parent template gets a new version 
-- **Searchable metadata**: Each template has a `meta.json` capturing category, jurisdiction, tags, and summary; the `find` command searches by category, tag, jurisdiction, or keyword 
-- **LLM recommendation (opt-in)**: Can ask an LLM for a recommendation, metadata-only by default, but the CLI does not generate new clause text 
-
-**Trade-off:** It is a CLI tool with no web UI—clause management is file-based and Git-native, requiring technical comfort.  
-**Best for:** Legal ops teams and developers wanting Git-native clause composition with provenance tracking and no database dependency.
-
-### draftLegal
-**Stack:** TypeScript / Python / Docker | **License:** AGPL-3.0
-draftLegal is positioned as the open-source alternative to Ironclad + Harvey, with clause-level intelligence as a core capability . Key clause-related features:
-- **Extract + cite**: Clauses, dates, and values are extracted, risk-scored, and **cited to the clause and section they came from**; for PDFs the citation opens the original page 
-- **Redline & negotiate**: Conservative/moderate/aggressive counter-proposals with **exact replacement language**, applied in a click 
-- **Playbook-aligned drafting**: AI agents run at every step with ~30 tools over contracts, including clause search, comparison, and redline 
-- **Portfolio intelligence**: Hybrid retrieval across the contract portfolio to answer questions about clause exposure and counterparty terms 
-
-**Trade-off:** Early-stage project; review repository status before production use.  
-**Best for:** Teams wanting a self-hosted, AI-native CLM with clause-level extraction, citation, and redline generation, accepting early-stage maturity.
-
-### Codify Core
-**Stack:** Python / Akoma Ntoso XML | **License:** Apache-2.0
-Codify Core converts legal documents into **structured, machine-readable data** that can be inspected, searched, and reused, preserving articles, sections, tables, and references with anchors and validation findings . For clause management, it provides:
-- **Structured extraction**: Each ingestion preserves document structure with coverage counts and validation findings 
-- **Akoma Ntoso 3.0 output**: A standard XML format for legal documents, enabling clause-level addressing and reuse 
-- **Python library, CLI, REST API, and MCP server**: Multiple access paths for integration 
-
-**Important:** Structural checks do not establish legal accuracy, and jurisdiction configurations are not complete legal corpora.  
-**Best for:** Teams needing structured, standards-based ingestion of legal documents with clause-level addressing, particularly for legislation and structured contract types.
-
-### OpenCLM
-**Stack:** TypeScript / PostgreSQL / Docker | **License:** AGPL-3.0
-OpenCLM is an open-source, self-hostable CLM platform with **clause and template management** as a core feature . Key capabilities include:
-- **Clause and template management**: Store, organize, and reuse approved clause and template language 
-- **Collaborative redlining**: Review and negotiate contract changes with tracked revisions 
-- **Review workflows and approvals**: Route contracts through defined approval chains 
-- **Contract repository and deadlines**: Centralized storage with obligation tracking 
-
-**Important status:** Early development release—the signature is an ordinary electronic signature, not advanced or qualified.  
-**Best for:** Teams wanting a self-hosted CLM foundation with clause and template management, accepting early-stage maturity.
-
-### contract-vault
-**Stack:** Python / Git | **License:** Open Source (PyPI)
-contract-vault is the post-signature sibling to template-vault, storing executed contracts in a Git-backed vault with **obligation tracking** rather than clause composition . While not a clause library, it complements template-vault by capturing the obligations and terms that result from executed clause language, with every field carrying its `source` and confidence.  
-**Best for:** Teams pairing template-vault's clause composition with post-signature obligation tracking in a Git-native workflow.
+| Platform | Valuation / Revenue | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Key Clause Capabilities | Best For |
+|:---|:---|:---|:---|:---|:---|
+| **[DocuSign CLM](https://www.docusign.com/products/clm)** | **$14.5B+ MCap** ($3.2B+ ARR) | Custom quote (Self-serve IAM tiers start at ~$45–$80/user/mo billed annually) | ❌ No free tier or self-serve trial for CLM (eSignature has 30-day trial; CLM requires sales demo) | Centralized pre-approved clause library, legal-defined fallback clauses, Salesforce document generation integration | Salesforce-centric enterprises integrating clause management with CPQ and agreement workflows |
+| **[Icertis](https://www.icertis.com/)** | **$5.0B Valuation** (~$350M ARR) | Custom enterprise quote (Typically ~$88,000+/year minimum commitment) | ❌ No free tier or public free trial (Guided enterprise POC upon request) | AI-Generated Playbooks, Redline Agent for instant fallback suggestions, Risk Review Agent with clause-level intelligence | Fortune 500 enterprises requiring mission-critical clause governance across massive contract portfolios |
+| **[Ironclad](https://ironcladapp.com/)** | **$3.2B Valuation** (~$200M+ ARR) | Custom annual quote (Typically ~$50,000+/year base; entry configurations cite ~$500/mo) | ❌ No free tier or public self-serve trial (Custom guided sales evaluation only) | Clause repository bank, AI Contract Review Agent, precedent-based redlining, automated playbook compliance | In-house legal ops teams seeking modern UX, collaborative negotiation, and automated approval workflows |
+| **[Conga](https://conga.com/)** | **$715M+ Valuation** (~$200M–$380M ARR) | Custom quote (Modular generation components starting ~$35/user/mo; full CLM typically ~$17,000+/year) | ❌ No standard free tier for CLM (7 to 30-day evaluations available for specific add-ons via partner marketplaces) | Enterprise clause library, automated clause insertion into dynamic templates, automated approval escalation | High-volume contract and quote document generation tightly paired with Salesforce and enterprise CPQ |
+| **[Agiloft](https://www.agiloft.com/)** | **KKR Majority Investment** (~$50M–$70M ARR) | Custom quote-based (Entry packages start ~$6,000/year or ~$65–$150/user/mo; standalone Astra AI starts at $120/mo) | ⚠️ Free Tier available exclusively on **Astra AI** ($0/month with limited monthly credits); core CLM requires sales demo | AI-assisted contract review, automated risk detection, instant fallback clause recommendations, obligation tracking | Organizations requiring flexible, no-code configurable workflows and deep clause-level risk detection |
+| **[CobbleStone](https://www.cobblestonesoftware.com/)** | **~$25M–$30M ARR** (Privately Held) | Custom enterprise quote (Entry SaaS tiers historically start around $59/user/month) | ✅ **30-Day Free Trial** available with full sandbox access to standard features | Pre-approved clause bank, clause versioning, template merging, audit trails, and automated approval chains | Mid-market enterprises, healthcare institutions, and public sector organizations seeking proven governance |
+| **[Robin AI](https://www.robinai.com/)** | **~$100M–$250M Est. Valuation** (~$10M ARR) | Custom quote for Pro & Enterprise (Freemium tier available) | ✅ **Free Tier** ($0/month with up to 10 free AI messages per day & basic document review) | Conversational contract assistant, clickable citations directly referencing source clauses, deviation comparison | Legal and procurement teams wanting rapid AI-driven contract verification with clause-level traceability |
 
 ---
 
-## 📊 Comparison at a Glance
+## 🔓 Open-Source Software & Clause Frameworks
 
-| Software | License | Stack | Clause Library | Fallback Positions | AI-Assisted | Self-Hosted | Best For |
-|----------|---------|-------|----------------|---------------------|-------------|-------------|----------|
-| **Icertis** | Proprietary | Cloud | ✅ | ✅ AI playbooks | ✅ Redline Agent | ❌ | Enterprise AI clause intelligence |
-| **Ironclad** | Proprietary | Cloud | ✅ | ✅ Precedent-based | ✅ Review Agent | ❌ | Template + clause integration |
-| **DocuSign CLM** | Proprietary | Salesforce | ✅ | ✅ Legal-defined | (Check) | ❌ | Salesforce contract generation |
-| **Conga** | Proprietary | Cloud | ✅ | (Check) | (Check) | ❌ | High-volume document generation |
-| **Agiloft** | Proprietary | Cloud/On-prem | ✅ | ✅ AI fallback | ✅ | (On-prem) | AI review + fallback suggestions |
-| **Robin AI** | Proprietary | Cloud | (Analysis) | (Comparison) | ✅ Citations | ❌ | Conversational clause verification |
-| **template-vault** | Open Source | Python/Git | ✅ Clause swap | ✅ `clause_overrides` | ✅ Optional LLM | ✅ | Git-native clause composition |
-| **draftLegal** | AGPL-3.0 | TypeScript/Docker | ✅ Extract + cite | ✅ Counter-proposals | ✅ AI agents | ✅ | AI-native clause extraction |
-| **Codify Core** | Apache-2.0 | Python/Akoma Ntoso | ✅ Structured | ❌ | ❌ | ✅ | Standards-based structuring |
-| **OpenCLM** | AGPL-3.0 | TypeScript/Postgres | ✅ Management | (Check) | (Check) | ✅ | Self-hosted CLM foundation |
+Community-driven, open-source libraries, CLM engines, and clause extraction frameworks. Sorted in **descending order by GitHub star count**.
+
+| Project | Stars (Community) | Stack / Tech | License | Core Clause Architecture |
+|:---|:---:|:---|:---|:---|
+| **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** | [![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) | Python / Django / React | Apache-2.0 | Open-source document intelligence and contract analysis platform. Extracts clauses, analyzes terms, and annotates multi-page contracts using layout-aware AI models. |
+| **[awesome-legal](https://github.com/ankane/awesome-legal)** | [![Stars](https://img.shields.io/github/stars/ankane/awesome-legal?style=social&color=white)](https://github.com/ankane/awesome-legal/stargazers) | Markdown / Curated | CC0-1.0 | Curated directory of open legal documents, standard startup clauses, advisor agreements, NDAs, and convertible instrument templates. |
+| **[accordproject/template-archive](https://github.com/accordproject/template-archive)** | [![Stars](https://img.shields.io/github/stars/accordproject/template-archive?style=social&color=white)](https://github.com/accordproject/template-archive/stargazers) | TypeScript / Cicero | Apache-2.0 | Canonical Accord Project repository of smart legal clauses and computable contract templates. Connects natural language legal text directly to executable data models. |
+| **[accordproject/concerto](https://github.com/accordproject/concerto)** | [![Stars](https://img.shields.io/github/stars/accordproject/concerto?style=social&color=white)](https://github.com/accordproject/concerto/stargazers) | TypeScript / Node.js | Apache-2.0 | Schema modeling language and validator for smart legal contracts. Formally models clause parameters, parties, financial obligations, and state machines. |
+| **[alexch/clauses](https://github.com/alexch/clauses)** | [![Stars](https://img.shields.io/github/stars/alexch/clauses?style=social&color=white)](https://github.com/alexch/clauses/stargazers) | Ruby / Markdown | MIT | Modular, open-source legal clause library for independent software consultants, engineers, and agencies (IP assignment, warranty disclaimers, liability caps). |
+| **[cicero-template-library](https://github.com/accordproject/cicero-template-library)** | [![Stars](https://img.shields.io/github/stars/accordproject/cicero-template-library?style=social&color=white)](https://github.com/accordproject/cicero-template-library/stargazers) | JavaScript / TemplateMark | Apache-2.0 | Community library of pre-packaged, parameterized clause templates for Cicero and Accord Project smart agreements. |
+| **[draftLegal](https://github.com/AniketTati/draft-legal)** | [![Stars](https://img.shields.io/github/stars/AniketTati/draft-legal?style=social&color=white)](https://github.com/AniketTati/draft-legal/stargazers) | TypeScript / Python / Docker | AGPL-3.0 | Self-hosted, AI-native contract lifecycle management suite. Features clause-level extraction with page-level PDF citations, 3-tier counter-proposal redlining, and automated playbooks. |
+| **[reference.legal](https://github.com/dot-legal/reference)** | [![Stars](https://img.shields.io/github/stars/dot-legal/reference?style=social&color=white)](https://github.com/dot-legal/reference/stargazers) | Markdown / Web | CC0-1.0 | Hyperlink-addressable standard clause repository designed to write shorter contracts by linking directly to standardized canonical boilerplate provisions. |
+| **[template-vault](https://pypi.org/project/template-vault/)** | [![PyPI](https://img.shields.io/badge/PyPI-template--vault-blue?style=social&color=white)](https://pypi.org/project/template-vault/) | Python / Git CLI | Open Source | Git-native contract template composition tool. Enables clause swapping from parent templates with provenance preservation in `clause_overrides` and automatic version upgrading. |
+| **[OpenCLM](https://openclm.ai/)** | [![Website](https://img.shields.io/badge/OpenCLM-Self--Hosted-green?style=social&color=white)](https://github.com/nxglabs/openclm) | TypeScript / PostgreSQL / Docker | AGPL-3.0 | Self-hostable, full CLM application featuring version-controlled clause and template libraries, multi-role approval workflows, collaborative redlines, and e-signatures. |
+| **[Codify Core](https://github.com/codifycli/codify)** | [![Stars](https://img.shields.io/github/stars/codifycli/codify?style=social&color=white)](https://github.com/codifycli/codify/stargazers) | Python / Akoma Ntoso XML | Apache-2.0 | Ingestion engine converting legal agreements and legislation into machine-readable Akoma Ntoso 3.0 XML with anchored clause indexing, REST API, and MCP tool endpoints. |
+| **[contract-vault](https://pypi.org/project/contract-vault/)** | [![PyPI](https://img.shields.io/badge/PyPI-contract--vault-blue?style=social&color=white)](https://pypi.org/project/contract-vault/) | Python / Git CLI | Open Source | Post-signature contract repository pairing with `template-vault`. Tracks executed clause obligations, party responsibilities, and expiration timelines backed by Git audit trails. |
+
+---
+
+## 📊 Feature Comparison at a Glance
+
+| Platform / Tool | Type | Clause Library | Fallback Positions | AI Redlining | Self-Hosted | Primary Ideal Use Case |
+|:---|:---|:---:|:---:|:---:|:---:|:---|
+| **DocuSign CLM** | Commercial SaaS | ✅ Centralized | ✅ Legal-defined | ✅ Optional | ❌ Cloud | High-volume enterprise generation & Salesforce alignment |
+| **Icertis** | Commercial SaaS | ✅ Hierarchical | ✅ AI-generated playbooks | ✅ Redline Agent | ❌ Cloud | Enterprise-wide contracting and multi-system integration |
+| **Ironclad** | Commercial SaaS | ✅ Dynamic bank | ✅ Precedent-based | ✅ Review Agent | ❌ Cloud | Modern legal operations and real-time negotiation |
+| **Conga** | Commercial SaaS | ✅ Cataloged | ✅ Conditional rules | ✅ Optional | ❌ Cloud | Heavy quote-to-contract and CPQ document automation |
+| **Agiloft** | Commercial SaaS | ✅ Metadata-tagged | ✅ Auto-suggestions | ✅ Astra AI | ✅ Hybrid | Configurable workflow governance and risk analysis |
+| **CobbleStone** | Commercial SaaS | ✅ Versioned bank | ✅ Defined fallbacks | ✅ VISDOM AI | ✅ Cloud/On-prem | Mid-market, healthcare, and public sector compliance |
+| **Robin AI** | Commercial SaaS | ✅ Analysis index | ✅ Comparative | ✅ Direct citations | ❌ Cloud | Fast conversational redlining with strict verification |
+| **OpenContracts** | Open Source | ✅ Segmented | ⚠️ Custom pipeline | ✅ Layout-aware | ✅ Self-hosted | Large-scale AI document extraction & clause annotation |
+| **Accord Project** | Open Source | ✅ Computable | ✅ Logical branches | ⚠️ Via MCP / LLM | ✅ Self-hosted | Smart, computable agreements & programmable clauses |
+| **draftLegal** | Open Source | ✅ Extracted bank | ✅ 3-tier proposals | ✅ Agentic tools | ✅ Self-hosted | Complete self-hosted AI-driven contract negotiation |
+| **template-vault** | Open Source | ✅ Git-backed | ✅ `clause_overrides` | ⚠️ Metadata only | ✅ Local/Git | Developer-centric clause versioning & provenance |
+| **OpenCLM** | Open Source | ✅ Template bank | ✅ Standard edits | ⚠️ Roadmap | ✅ Self-hosted | Free self-hosted CLM infrastructure for SMBs |
+
+---
+
+## 🎯 Key Selection Criteria for Legal Clause Libraries
+
+When evaluating clause management tools for your enterprise or development stack, consider:
+
+1. **Hierarchy & Fallback Flexibility**: Does the platform support primary positions, fallback options (Tier 1 / Tier 2), and strict non-negotiable walk-away clauses?
+2. **AI Verification & Hallucination Prevention**: Does the AI quote exact clause text and provide line/page citations, or does it generate ungrounded summaries?
+3. **Drafting Environment Integration**: Can drafters access approved clause blocks directly inside Microsoft Word, Google Docs, or your web editor of choice?
+4. **Metadata & Governance**: Are clauses versioned, attributed to a legal owner, and subject to automatic expiration or periodic legal review?
+5. **Data Sovereignty & Security**: Can you self-host the repository or run local models (crucial for sensitive M&A agreements, NDAs, and confidential customer contracts)?
+
+---
+
+## 💖 Support
+
+Thank you for visiting and utilizing this curated directory! If you find this resource helpful for your legal engineering, procurement, or contract automation projects, please consider supporting it:
+
+- ⭐ **Star this repository** to improve discoverability for fellow legal tech architects and developers.
+- 🍴 **Fork and contribute** new open-source clause libraries, standards, or benchmarks.
+- 📢 **Share** this collection with your legal ops, engineering, and contract management peers.
+- ☕ **Sponsor**: If you would like to support the ongoing curation and maintenance of open-source knowledge bases, please check out the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Legal Clause Library or Standard Clause tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! 🙌 If you know of an innovative open-source clause management tool, standard contracting framework, or legal dataset:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
-
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source.
-
-**Note on the open-source ecosystem:** The open-source landscape for **legal clause libraries** is **very limited and fragmented**. **template-vault** is the most purpose-built open-source tool for clause composition, offering Git-native clause swapping with provenance tracking—a genuinely novel approach compared to commercial platforms . **draftLegal** provides the strongest AI-native clause extraction and redline generation, with citations back to source clauses . **Codify Core** fills the standards-based structuring niche with Akoma Ntoso output for machine-readable legal documents . **OpenCLM** offers clause and template management as part of a broader self-hosted CLM foundation, though it is early-stage . Commercial platforms like Icertis and Ironclad remain far more capable for enterprise clause governance with AI-generated playbooks, precedent-based redlining, and deep integration with contract workflows.
+1. 🍴 **Fork this repository**
+2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-clause-tool`)
+3. ✍️ **Add the tool** with precise details (licensing, stack, GitHub star badge, and unique capabilities)
+4. 💾 **Commit your changes** (`git commit -m 'Add new legal clause tool'`)
+5. 🚀 **Push to the branch** (`git push origin feature/add-new-clause-tool`)
+6. 📬 **Submit a Pull Request**
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
+This repository is distributed under the [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/) license. Individual products, software packages, and tools mentioned retain their respective copyrights and licensing terms.
 
 ---
 
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
-
 ## Star History
 
-<a href="https://star-history.com/#ishandutta2007/Awesome-Legal-Clause-Library-Standard-Clauses&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Legal-Clause-Library-Standard-Clauses_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Legal-Clause-Library-Standard-Clauses_growth.svg">
-  </picture>
-</a>
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Legal-Clause-Library-Standard-Clauses&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Legal-Clause-Library-Standard-Clauses&type=date&legend=top-left)
