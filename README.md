@@ -58,9 +58,9 @@ The following table benchmarks leading commercial cloud legal clause libraries a
 
 ## 🔓 Open-Source Software & Clause Frameworks
 
-Community-driven, open-source libraries, CLM engines, and clause extraction frameworks. Sorted in **descending order by GitHub star count**.
+Community-driven, open-source libraries, CLM engines, and clause extraction frameworks. Sorted in **descending order by GitHub Stars_Count**.
 
-| Project | Stars (Community) | Stack / Tech | License | Core Clause Architecture |
+| Project | GitHub_Stars (Community) | Stack / Tech | License | Core Clause Architecture |
 |:---|:---:|:---|:---|:---|
 | **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** | [![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) | Python / Django / React | Apache-2.0 | Open-source document intelligence and contract analysis platform. Extracts clauses, analyzes terms, and annotates multi-page contracts using layout-aware AI models. |
 | **[awesome-legal](https://github.com/ankane/awesome-legal)** | [![Stars](https://img.shields.io/github/stars/ankane/awesome-legal?style=social&color=white)](https://github.com/ankane/awesome-legal/stargazers) | Markdown / Curated | CC0-1.0 | Curated directory of open legal documents, standard startup clauses, advisor agreements, NDAs, and convertible instrument templates. |
@@ -125,7 +125,7 @@ Contributions are warmly welcomed! 🙌 If you know of an innovative open-source
 
 1. 🍴 **Fork this repository**
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-clause-tool`)
-3. ✍️ **Add the tool** with precise details (licensing, stack, GitHub star badge, and unique capabilities)
+3. ✍️ **Add the tool** with precise details (licensing, stack, GitHub Stars_Badge, and unique capabilities)
 4. 💾 **Commit your changes** (`git commit -m 'Add new legal clause tool'`)
 5. 🚀 **Push to the branch** (`git push origin feature/add-new-clause-tool`)
 6. 📬 **Submit a Pull Request**
@@ -141,3 +141,12 @@ This repository is distributed under the [CC0 1.0 Universal (Public Domain)](htt
 ## Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Legal-Clause-Library-Standard-Clauses&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Legal-Clause-Library-Standard-Clauses&type=date&legend=top-left)
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Legal-Clause-Library-Standard-Clauses&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Legal-Clause-Library-Standard-Clauses_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Legal-Clause-Library-Standard-Clauses_growth.svg">
+  </picture>
+</a>
